@@ -1,0 +1,15 @@
+PODS:
+  - Masonry (1.1.0)
+  - UIImage+ImageWithColor (1.4.0)
+
+DEPENDENCIES:
+  - Masonry (~> 1.1.0)
+  - UIImage+ImageWithColor
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  UIImage+ImageWithColor: 891401f732f2f332fefe68c2332c6c955c2a879c
+
+PODFILE CHECKSUM: 1ee1a8c9a5795287b9faa26e866ed797f15178c1
+
+COCOAPODS: 1.4.0
